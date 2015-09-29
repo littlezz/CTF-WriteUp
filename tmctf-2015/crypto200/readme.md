@@ -75,7 +75,7 @@ def recover_key():
 ```
 
 
-得到秘钥`5d6I9pfR7C1JQt7$1`
+得到秘钥`5d6I9pfR7C1JQt7$`
 
 -----
 
